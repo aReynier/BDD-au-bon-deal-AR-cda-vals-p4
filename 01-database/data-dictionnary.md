@@ -13,3 +13,11 @@
 | Orders | order_total_quantity | (wip) | (wip) | (wip) |
 | Orders | created_at | (wip) | (wip) | (wip) |
 | Orders | deliver_atO | (wip) | (wip) | (wip) |
+|---    |:-:    |:-:    |:-:    |--:    |
+| Products | product_UUID | (wip) | (wip) | (wip) |
+| Products | product_name | (wip) | (wip) | (wip) |
+| Products | product_description | (wip) | (wip) | (wip) |
+| Products | product_price | (wip) | (wip) | (wip) |
+| Products | product_quantity | (wip) | (wip) | (wip) |
+| Products | created_at | (wip) | (wip) | (wip) |
+| Products | updated_at | (wip) | (wip) | (wip) |
