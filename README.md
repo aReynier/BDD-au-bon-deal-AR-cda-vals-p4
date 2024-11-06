@@ -1,7 +1,7 @@
 # Base de données au bon deal
 
 ## Introduction
-Ceci est la base de données mise au point pour le site au bon deal. De dossier de travail comporte les modèles de donénes Merise ainsique les sauvegarde de la base de donnée. Egalement, des pistes d'amélioration sont proposées à la fi nde ce dossier.
+Ce dépôt en ligne contient les modèles de données Merise développés pour le site "Au Bon Deal", ainsi que les sauvegardes de la base de données. Il inclut également des propositions d’amélioration pour optimiser la structure et la gestion des données à l’avenir.
 
 ## Sommaire:
 - [Fichiers de la base de données](./01-database/)
