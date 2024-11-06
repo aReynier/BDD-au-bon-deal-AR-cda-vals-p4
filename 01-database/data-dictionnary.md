@@ -8,3 +8,8 @@
 | Users | user_password | (wip) | (wip) | (wip) |
 | Users | created_at | (wip) | (wip) | (wip) |
 |---    |:-:    |:-:    |:-:    |--:    |
+| Orders | order_number | (wip) | (wip) | (wip) |
+| Orders | order_total_cost_ht | (wip) | (wip) | (wip) |
+| Orders | order_total_quantity | (wip) | (wip) | (wip) |
+| Orders | created_at | (wip) | (wip) | (wip) |
+| Orders | deliver_atO | (wip) | (wip) | (wip) |
