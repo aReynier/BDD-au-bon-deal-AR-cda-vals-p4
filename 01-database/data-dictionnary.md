@@ -14,10 +14,10 @@
 | Orders | created_at | timestamptz | YYYY-MM-DD HH:MI:SS+TZ  | Date de création de la commande |
 | Orders | deliver_atO | timez | YYYY-MM-DD+TZ  | Date de livraison de la commande |
 |---    |:-:    |:-:    |:-:    |--:    |
-| Products | product_UUID | (wip) | (wip) | (wip) |
-| Products | product_name | (wip) | (wip) | (wip) |
-| Products | product_description | (wip) | (wip) | (wip) |
-| Products | product_price | (wip) | (wip) | (wip) |
-| Products | product_quantity | (wip) | (wip) | (wip) |
-| Products | created_at | (wip) | (wip) | (wip) |
-| Products | updated_at | (wip) | (wip) | (wip) |
+| Products | product_UUID | UUID | 8-4-4-4-12 | Identifiant unique du produit |
+| Products | product_name | varchar(100) | Alphanumerique, espaces, trets, slashs | (wip) |
+| Products | product_description | varchar(500) | 	Alphanumérique, espaces, ponctuation | Description du produit |
+| Products | product_price | DECIMAL(10, 2) | Décimale à deux chiffres après la virgule | Prix du produit |
+| Products | product_quantity | int | Numérique | Quantité de produit en stock |
+| Products | created_at | timestampz | YYYY-MM-DD HH:MI:SS+TZ  | Date d'ajout du produit |
+| Products | updated_at | timestampz | YYYY-MM-DD HH:MI:SS+TZ  | Date de mise à jour du produit |
