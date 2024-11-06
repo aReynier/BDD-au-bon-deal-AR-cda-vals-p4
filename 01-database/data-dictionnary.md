@@ -1,12 +1,12 @@
 # Dictionnaire de données
 
-| Nom de la table | Nom du champ | Type de données | Format Format de données | Définition du champs |
+| Nom de la table | Nom du champ | Type de données | Format de données | Définition du champs |
 |---    |:-:    |:-:    |:-:    |--:    |
-| Users | user_UUID | (wip) | (wip) | (wip) |
-| Users | user_pseudo | (wip) | (wip) | (wip) |
-| Users | username | (wip) | (wip) | (wip) |
-| Users | user_password | (wip) | (wip) | (wip) |
-| Users | created_at | (wip) | (wip) | (wip) |
+| Users | user_UUID | UUID | 8-4-4-4-12 | identifiant unique de l'utilisateur |
+| Users | user_pseudo | varchar(50) | ALphanumérique, underscores acceptés | Pseudonyme de l'utilisateur |
+| Users | username | varchar(50) | Alphabétique, tirets acceptés | Nom de l'utilisateur |
+| Users | user_password | varchar(255) | string hashé | Moe de passe de l'utilisateur |
+| Users | created_at | timestamptz | YYYY-MM-DD HH:MI:SS+TZ | Date de création de l'utilisateur |
 |---    |:-:    |:-:    |:-:    |--:    |
 | Orders | order_number | (wip) | (wip) | (wip) |
 | Orders | order_total_cost_ht | (wip) | (wip) | (wip) |
