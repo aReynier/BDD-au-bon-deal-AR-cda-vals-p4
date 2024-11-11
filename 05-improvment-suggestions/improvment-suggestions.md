@@ -12,7 +12,7 @@ Les administrateurs devront avoir la possibilité de gérer les utilisateurs, y 
 - **Authentification à deux facteurs pour les administrateurs :**
 Pour renforcer la sécurité, il est recommandé de mettre en place une authentification à deux facteurs (2FA) pour les administrateurs. Cela garantirait un accès sécurisé et contrôlé aux fonctions sensibles du site, réduisant ainsi les risques d'accès non autorisé.
 
-- **Renommage de la colonne "deliver_at" dans la table des commandes :**
+- **Renommage de la colonne "deliver_atO" dans la table des commandes :**
 La colonne "deliver_atO" semble être une erreur de frappe. Il serait préférable de la renommer "delivered_at" pour améliorer la compréhension et maintenir une structure cohérente avec la colonne "created_at".
 
 - **Gestion de la quantité dans la commande :**
