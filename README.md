@@ -8,14 +8,15 @@ Ce dépôt en ligne contient les modèles de données Merise développés pour l
     - [Dictionnaire de données](./01-database/data-dictionnary.md)
     - [MCD](./01-database/mcd-au-bon-deal.png)
     - [MLD](./01-database/mld-au-bon-deal.png)
-    - [Sauvegardes](./01-database/backup/)
+    - [Notice mise en place sauvegardes automatiques](./01-database/automation-setup.md)
+    - [Sauvegardes automatiques](./01-database/backup/automatic-backup/)
+    - [Sauvegardes manuelles](./01-database/backup/manual-backup/)
 - [Sécurité](./02-security/)
     - [RBAC](./02-security/RBAC.md)
     - [Politique de rétention](./02-security/RBAC.md)
     - [RGPD](./02-security/RGPD.md)
 - [Règles de gestion](./03-managment-rules/managment-rules.md)
-- [Benchmarks](./04-benchmarks/)
-    - [Benchmark de la base de données](./04-benchmarks/database-benchmark.md)
+- [Benchmark de la base de données](./04-benchmarks/database-benchmark.md)
 - [Suggestions d'amélioration](./05-improvment-suggestions/improvment-suggestions.md)
 
 ## Merise
